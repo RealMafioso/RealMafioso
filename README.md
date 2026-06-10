@@ -18,10 +18,11 @@
 
   ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/e85d326bab58e4a13c01c99efeb2079d75c32aad/Screenshot%202026-06-10%20171649.png)
 
-   
+   ![Image-alt](<img width="212" height="248" alt="Image" src="https://github.com/user-attachments/assets/de7d9ddd-6b93-42db-8cd1-d416518a816e" />)
+
 # I feel no pain, can you say the same?..
 
-![Image-alt](<img width="212" height="248" alt="Image" src="https://github.com/user-attachments/assets/de7d9ddd-6b93-42db-8cd1-d416518a816e" />)
+
 
 <!--
 **RealMafioso/RealMafioso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
