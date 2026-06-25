@@ -6,7 +6,6 @@
 ## Don't u dare mess with me and my friends. 
 
 
-
 <br>
 
    <small><b>"The Dragon King"</b></small>
@@ -21,11 +20,11 @@
  <details>
    <summary><ins>About Myself</ins></summary>
 
-   <p>Hello, my name is Spike and my birthday is on 9 of November.</p>
-   <p>Nicknames: Spike, Spine and Spire.</p>
-   <p>I only speak English and Filipino -sometimes a little.</p>
-   <p>A Nonshippers : ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
-   <p>I avoid blocking either being toxic and harassing.</p>
+<p>Hello, my name is Spike and my birthday is on 9 of November.</p>
+<p>Nicknames: Spike, Spine and Spire.</p>
+<p>I only speak English and Filipino -sometimes a little.</p>
+<p>A Nonshippers : ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
+<p>I avoid blocking either being toxic and harassing.</p>
  </div>
  </details>
 
@@ -33,10 +32,10 @@
   
   
   <details>
-             <summary><ins>About Pony Town</ins></summary>
-             <p>I allowed cuddles and piles when im with people. Also do not cover or copy my Spike cosplay, I will not allowed that.</p>
-             <p>I may be afk or semi-afk but i may be online every year well sometimes.</p>
-              <p>Free to W2I, there's chances that i might see the messages.</p>
+   <summary><ins>About Pony Town</ins></summary>
+ <p>I allowed cuddles and piles when im with people. Also do not cover or copy my Spike cosplay, I will not allowed that.</p>
+ <p>I may be afk or semi-afk but i may be online every year well sometimes.</p>
+  <p>Free to W2I, there's chances that i might see the messages.</p>
  </div>
  </details>
 
