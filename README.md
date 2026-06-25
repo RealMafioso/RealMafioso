@@ -28,20 +28,20 @@
  <br>
   
   
- <details>
-   <summary><ins>About Pony Town</ins></summary>
-   <p>I allowed cuddles and piles when im with people. Also do not cover or copy my Spike cosplay, I will not allowed that.</p>
-   <p>I may be afk or semi-afk but i may be online every year well sometimes.</p>
-   <p>Free to W2I, there's chances to see the message.</p>
+  <details>
+             <summary><ins>About Pony Town</ins></summary>
+             <p>I allowed cuddles and piles when im with people. Also do not cover or copy my Spike cosplay, I will not allowed that.</p>
+             <p>I may be afk or semi-afk but i may be online every year well sometimes.</p>
+              <p>Free to W2I, there's chances to see the message.</p>
  </div>
  </details>
 
  <br>
 
-   <details>
-     <summary><ins>Do not Befriend with me.</ins></summary>
-   <p>Under 12 years old, I will not accept either be friends with under 12 years old.</p>
-   <p>Above 18+ or 13+ i will accept it.</p>
+  <details>
+         <summary><ins>Do not Befriend with me.</ins></summary>
+         <p>Under 12 years old, I will not accept either be friends with under 12 years old.</p>
+         <p>Above 18+ or 13+ i will accept it.</p>
   
 
    </div>
