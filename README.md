@@ -65,11 +65,16 @@
    
  <br>
 
-
+H
 
    ## Questions - Why i don't ship Spike with other canons and fanons?
    <p>Shipping Spike with other canon and fanons may caused a  sex or heat shippers to appeared. Like shipping rarity x spike, etc, and more.</p>
    <p>I rather avoid sex or heat shippers</p>
+details>
+    <summary><inst>How to be friends with me?</inst></summary>
+   <p>Well if you want to be friends with me, you have to talk / whispering to me alot.</p>
+   <p>I avoid talking / whispering under 12 years old.</p>
+   <p>I like to talk / whisper alot even when im bored.</p>
 
   
   
