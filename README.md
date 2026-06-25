@@ -1,7 +1,10 @@
 
 
 <img width="219" height="294" alt="Image" src="https://github.com/user-attachments/assets/a496b40c-f73c-46fe-9e53-144af4f6a6f3" width="420" /> 
+
+
 ## Don't u dare mess with me and my friends. 
+
 
 
 <br>
