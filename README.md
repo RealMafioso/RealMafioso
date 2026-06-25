@@ -25,7 +25,7 @@
    <p>Nicknames: Spike, Spine and Spire.</p>
    <p>I only speak English and Filipino -sometimes a little.</p>
    <p>A Nonshippers : ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
-   <p>I avoid blocking either being angry or rude.</p>
+   <p>I avoid blocking either being toxic and harassing.</p>
  </div>
  </details>
 
