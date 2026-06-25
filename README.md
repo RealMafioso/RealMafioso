@@ -71,10 +71,8 @@
  
  
  <details>
-
-
-    
- <summary><inst>How to be friends with me?</inst></summary>
+   
+  <summary><inst>How to be friends with me?</inst></summary>
     
    <p>Well if you want to be friends with me, you have to talk / whispering to me alot.</p>
    <p>I avoid talking / whispering under 12 years old.</p>
