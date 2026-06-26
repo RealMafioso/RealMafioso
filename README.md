@@ -44,6 +44,7 @@
  <p>Don't try make fun of me and my friends.</p>
  <p>I avoid being bullied, spammed, and harassed.</p>
  <p>I will not response to a spam whisper.</p>
+ <p>ALways active, I won't disconnect the game whenever im afk or semi-afk.</p>
 
  </div>
  </details>
@@ -195,7 +196,7 @@
  <br> 
 
 
-## She always got my side. aka - Twilight and Spike
+## She always got my side.. Thank you Twilight. 
 
  
 <img width="222" height="325" alt="Image" src="https://github.com/user-attachments/assets/bbb10e4f-0ec7-4950-af85-5903ee7899ab" />
