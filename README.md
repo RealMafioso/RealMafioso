@@ -18,8 +18,6 @@
  <br>
 
 <details>
-
-
    <summary><ins>About Myself</ins></summary>
   
 <div align="center">
