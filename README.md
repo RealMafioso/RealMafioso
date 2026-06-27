@@ -112,6 +112,7 @@
 
 <details>
  <summary><inst>❔ʟᴏᴄᴀᴛɪᴏɴ❔</inst></summary>
+ 
  <div align="center">
    <p>Under Bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG]</p>
    </div>
@@ -130,6 +131,7 @@
 <br>
       
 ## 👀INTERESTS👀
+
 <div align="center">
    <details>
     <summary><inst>ғᴀᴠᴏᴜʀɪᴛᴇ ᴄᴏʟᴏʀs ᴀɴᴅ ʜᴏʙʙɪᴇs.</inst></summary>
