@@ -12,12 +12,12 @@
  <sub>The underline words are clickabled.</sub>
   <p align="center">
 
-  <details>
+  </details>
   
  </p>
  <br>
 
-</details>
+<details>
 
  <summary><ins>About Myself</ins></summary>
   
