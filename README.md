@@ -251,3 +251,9 @@
 
 
 
+
+## ꧁༒ᴇᴀᴛɪɴɢ...༒꧂
+<p align="center">
+<img width="222" height="229" alt="Image" src="https://github.com/user-attachments/assets/ac09d4e7-d3ed-4ed6-8331-76a3133316dd" />
+
+
