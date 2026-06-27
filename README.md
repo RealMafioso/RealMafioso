@@ -36,9 +36,9 @@
 </details>
 <br>
 
+
   <details>
    <summary><ins>ᴀʙᴏᴜᴛ ᴘᴏɴʏ ᴛᴏᴡɴ</ins></summary>
-     
 <div align="center">
  <p>I allow cuddles and piles when I'm with people. Also, do not cover or copy my Spike cosplay; I will not allow that.</p>
  <p>I may be AFK or semi-AFK, but I may be online every year, well, sometimes.</p>
