@@ -61,15 +61,15 @@
  <summary><ins>❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅ❗</ins></summary>
      
 <div align="center">   
- <p>Under 12 years old, I will not accept being friends with anyone under 12 years old.<p>
+ <p>Under 12 years old, I will not accept being friends with anyone under 12 years old.</p>
  <p>Above 18+ or 13+, I will accept it.</p>
  <p>I avoid being friend-requested by people under 12 years old.</p>
- <p>Copying me or my friends is a dangerous decision and awful action. I will block you for copying me or my friends.<p>
+ <p>Copying me or my friends is a dangerous decision and awful action. I will block you for copying me or my friends.</p>
  <p>Tired and sleepy. (Needs some rest.)</p>
- <p>I do not like getting disturbed in my rest by spam whispering. Whispering to me when I'm sleeping is fine.<p>
+ <p>I do not like getting disturbed in my rest by spam whispering. Whispering to me when I'm sleeping is fine.</p>
  <p>If you're willing to be my friend, you have to chat calmly.</p>
  <p>I do not like nonpatiences if they're willing to me to accept their friend requests.</p>
- <p>Whisper to me if you want to talk or be friends with me. I'll even ask if you're 18+ or under 12 years old.<p>
+ <p>Whisper to me if you want to talk or be friends with me. I'll even ask if you're 18+ or under 12 years old.</p>
   </div>
 </details>
 <br>
