@@ -32,7 +32,6 @@
  <p>Twilight is my friend; I always support her, and I always have her back.</p>
  <p>I will block you if you start harassing my friends.</p>
  <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
- 
  </div>
 </details>
 <br>
@@ -87,7 +86,7 @@
    <p></p>I usually like people cuddling me or sitting with me. I really don't care if I sit alone.</p>
    <p>If you're not feeling well, not in the mood, or upset. I might whisper / respond to you.</p>
    <p>I do not want to be friends with a Tut skins, toxic ships, etc., and more.</p>
-    </div>
+   </div>
 </details>
 <br>
 
@@ -107,7 +106,7 @@
    <p>Be kind to my friends and random people.</p>
    <p>I'll make up my mind if you're cool, awesome, good, or bad.</p>
    <p>Do not ship TWILIGHT AND SPIKE. I do not like that ship because Twilight and Spike are friends.</p>
-      </div>
+   </div>
 </details>
 <br>
 
