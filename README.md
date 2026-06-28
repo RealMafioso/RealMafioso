@@ -120,7 +120,7 @@
  <summary><ins>|❔ʟᴏᴄᴀᴛɪᴏɴ❔|:</ins></summary>
  
  <div align="center">
-   <p>under bakery, sitting near the bakery board with my friend, [In Safe Server #OG 1, #2  and # 18+ server ]</p>
+   <p>under bakery entrance, sitting near the bakery board with my friend, [In Safe Server #OG 1, #2  and # 18+ server ]</p>
    </div>
 </details>
 <br>
